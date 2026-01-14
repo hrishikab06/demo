@@ -1,2 +1,3 @@
 # demo
-my first repo
+my first repo.
+author- HRshi
